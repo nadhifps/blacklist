@@ -1,0 +1,77 @@
+[
+    {
+    "nama": "Razor",
+    "merkMobil": "BMW M3 GTR",
+    "imageId": "razor"
+    },
+    {
+    "nama": "Bull",
+    "merkMobil": "Mercedes-Benz SLR Mclaren",
+    "imageId": "bull"
+    },
+    {
+    "nama": "Ronnie",
+    "merkMobil": "Aston Martin DB9",
+    "imageId": "ronnie"
+    },
+    {
+    "nama": "JV",
+    "merkMobil": "Dodge Viper SRT-10",
+    "imageId": "jv"
+    },
+    {
+    "nama": "Webster",
+    "merkMobil": "Chevrolet Corvette Z06",
+    "imageId": "webster"
+    },
+    {
+    "nama": "Ming",
+    "merkMobil": "Lamborghini Gallardo",
+    "imageId": "ming"
+    },
+    {
+    "nama": "Kaze",
+    "merkMobil": "Mercedes-Benz CLK-500",
+    "imageId": "kaze"
+    },
+    {
+    "nama": "Jewels",
+    "merkMobil": "Ford Mustang Gt",
+    "imageId": "jewels"
+    },
+    {
+    "nama": "Earl",
+    "merkMobil": "Mitsubishi Lancer Evo 8",
+    "imageId": "earl"
+    },
+    {
+    "nama": "Baron",
+    "merkMobil": "Porsche Cayman",
+    "imageId": "baron"
+    },
+    {
+    "nama": "Big Lou",
+    "merkMobil": "Mitsubishi Eclipse",
+    "imageId": "biglou"
+    },
+    {
+    "nama": "Izzy",
+    "merkMobil": "Mazda Rx-8",
+    "imageId": "izzy"
+    },
+    {
+    "nama": "Vic",
+    "merkMobil": "Toyota Supra",
+    "imageId": "vic"
+    },
+    {
+    "nama": "Taz",
+    "merkMobil": "Lexus IS300",
+    "imageId": "taz"
+    },
+    {
+    "nama": "Sonny",
+    "merkMobil": "VW Golf GTI",
+    "imageId": "sonny"
+    }
+]
